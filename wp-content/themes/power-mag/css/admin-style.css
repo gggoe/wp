@@ -1,0 +1,24 @@
+/**
+* custom styling for admin side
+* 
+*/
+
+.pm_label_hilight_customizer{
+    width:100%; 
+    border:1px solid;
+    padding:2px;
+    color:#58719E;
+    text-transform:uppercase;
+}
+.pm-radio-image-wrapper{
+    float:left; 
+    margin-right:30px;   
+}
+
+.pm_admin_widget_descrip{
+    width:100%; 
+    border:1px solid;
+    padding:2px;
+    color:#58719E;
+    text-transform:uppercase;
+}

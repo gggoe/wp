@@ -1,0 +1,20 @@
+#customize-controls .control-section-power-mag .accordion-section-title:hover,
+#customize-controls .control-section-power-mag .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-power-mag .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+    background-color: #ee3440;
+    border: none;
+    color: #fff;
+}
+
+	.rtl .control-section-power-mag .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+        background-color: #ee3440;
+        color: #fff;
+	}
